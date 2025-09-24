@@ -60,14 +60,14 @@ Expected runtime: < 1 minute on a normal desktop
 
 ## Instructions for use
 
-Run the main simulation:  
-Open Nature_BBH_Penning_Code_Simulation_Demonstration.ipynb in Jupyter Lab. Adjust the parameter cells at the top to explore different configurations. This notebook includes the entire stand alone code to run simulations with different parameters and plot the results with demonstrations.
+- Run the main simulation:  
+Open `Nature_BBH_Penning_Code_Simulation_Demonstration.ipynb` in Jupyter Lab. Adjust the parameter cells at the top to explore different configurations. This notebook includes the entire stand alone code to run simulations with different parameters and plot the results with demonstrations.
 
 Reproduce manuscript figures:  
-Run Nature_BBH_Merger_Plots.ipynb. Output figures are written to the working directory.
+Run `Nature_BBH_Merger_Plots.ipynb`. Output figures are written to the working directory.
 
 Verify installation and dependencies:  
-Run Nature_Sample_Simulation_Data_Set_Plotting.ipynb.
+Run `Nature_Sample_Simulation_Data_Set_Plotting.ipynb`.
 
 Optional reproduction instructions:  
 Running all three notebooks sequentially reproduces all quantitative results shown in the manuscript.
