@@ -3,7 +3,7 @@
 This repository contains the full code used in our Nature submission. It includes three Jupyter notebooks that reproduce the figures, simulations, and a sample dataset:
 
 - Nature_BBH_Penning_Code_Simulation_Demonstration.ipynb  
-  Main demonstration notebook showing how to set up and run the BBH Penning trap simulation, including example trajectories and parameter sweeps.
+  Main demonstration notebook showing how to set up and run the BBH Penning trap simulation, including example trajectories and parameter sweeps. Specific parameters of simulations used are explicitly mentioned in the main text and SI.
 
 - Nature_BBH_Merger_Plots.ipynb  
   Produces the merger-related figures used in the manuscript (results section), reproducible end-to-end.
