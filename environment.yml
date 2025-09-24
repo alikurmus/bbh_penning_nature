@@ -1,0 +1,12 @@
+name: bbh_penning
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - matplotlib
+  - jupyter
+  - tqdm
+prefix: /Users/ali/opt/miniforge3/envs/bbh_penning

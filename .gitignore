@@ -1,0 +1,28 @@
+# Byte-compiled / cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data (ignore large data, but keep demo data folder)
+data/*
+!data/demo/
+!data/README.md
+
+# Figures (can be regenerated from notebooks)
+figures/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
