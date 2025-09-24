@@ -76,7 +76,7 @@ Running all three notebooks sequentially reproduces all quantitative results sho
 
 ## License
 
-This project is released under the MIT License (see LICENSE)
+This project is released under the Apache 2.0 License (see LICENSE).
 
 ---
 
