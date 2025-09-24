@@ -82,5 +82,5 @@ This project is released under the MIT License (see LICENSE)
 
 ## Repository
 
-Public repository link: [add GitHub URL here after upload]
+Public repository link: [https://github.com/alikurmus/bbh_penning_nature]
 
