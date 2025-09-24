@@ -67,7 +67,7 @@ Open `Nature_BBH_Penning_Code_Simulation_Demonstration.ipynb` in Jupyter Lab. Ad
 Run `Nature_BBH_Merger_Plots.ipynb`. Output figures are written to the working directory.
 
 ### Verify installation and dependencies:  
-Run `Nature_Sample_Simulation_Data_Set_Plotting.ipynb`. The full data set is available at https://drive.google.com/file/d/1r1oxAGBFeMseN_Fsc2dWuNcp-Iiw9khP/view?usp=sharing.
+Run `Nature_Sample_Simulation_Data_Set_Plotting.ipynb`. The full data set mentioned on the notebook is available at https://drive.google.com/file/d/1r1oxAGBFeMseN_Fsc2dWuNcp-Iiw9khP/view?usp=sharing. The small dataset is available in the repository.
 
 ### Optional reproduction instructions:  
 Running all three notebooks sequentially reproduces all quantitative results shown in the manuscript.
